@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png">
+<img src="https://github.com/lukehemmin/lukehemmin/raw/main/github.png">
