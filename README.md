@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=SangHo%20Park&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descAlign=50" />
   
   <!-- 타이핑 애니메이션 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+SangHo+Park+👋;끊임없이+배우고+성장하는+개발자+😎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=650&height=100&lines=Hello!+I'm+SangHo+Park+👋;끊임없이+배우고+성장하는+개발자+😎" alt="Typing SVG" />
   
   <!-- 소개 -->
   <h3>🚀 About Me</h3>
