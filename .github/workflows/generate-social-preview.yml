@@ -1,0 +1,34 @@
+name: Generate Social Preview
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'assets/social-preview.svg'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Inkscape
+        run: sudo apt-get update && sudo apt-get install -y inkscape
+
+      - name: Render SVG to PNG
+        run: |
+          mkdir -p assets
+          inkscape assets/social-preview.svg --export-type=png --export-filename=assets/social-preview.png --export-width=1280 --export-height=640
+
+      - name: Commit preview image
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/social-preview.png
+            git commit -m "chore: generate social preview image"
+            git push
+          fi
+
+
