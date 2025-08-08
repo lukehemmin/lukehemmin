@@ -36,7 +36,7 @@
 ### GitHub 통계
 <div align="center">
   <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=lukehemmin&show_icons=true&rank_icon=github&theme=transparent" />
-  <img height="165" alt="streak" src="https://streak-stats.demolab.com?user=lukehemmin&theme=transparent&hide_border=true" />
+  <img height="165" alt="productive-time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukehemmin&utcOffset=9&theme=transparent" />
 </div>
 <div align="center">
   <img height="165" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehemmin&layout=compact&langs_count=8&hide=css,html&theme=transparent" />
