@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Sangho%20Park%20(lukehemmin)&fontColor=ffffff&fontSize=36&animation=fadeIn&fontAlignY=36" alt="header" />
+
 <div align="center">
   <h1>박상호 Sangho Park (lukehemmin)</h1>
   <p>Server/Plugin & AI Gateway 개발자</p>
@@ -7,7 +9,16 @@
     <a href="https://github.com/lukehemmin">GitHub</a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=lukehemmin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/lukehemmin?style=flat&color=0e75b6&logo=github" alt="followers" />
+  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=800&color=0E75B6&center=true&vCenter=true&width=800&lines=Server%2FPlugin+%26+AI+Gateway+Developer;Kotlin+Minecraft+Plugins;Next.js+%2B+Node.js+%2B+PostgreSQL;Open+to+collaboration+%F0%9F%91%8B" alt="typing" />
 </div>
+
+### 소개
+- **Minecraft 서버 플러그인**과 **AI API 게이트웨이**에 집중합니다.
+- **Kotlin/TypeScript** 기반 백엔드·프론트엔드 및 **Docker/CI** 환경 구성 경험.
+- 실사용에 적합한 **운영·관리 도구**(관리자 UI, 로깅, 키 관리)를 중시합니다.
 
 ### 기술 스택
 <p align="center">
@@ -29,6 +40,18 @@
 </div>
 <div align="center">
   <img height="165" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehemmin&layout=compact&langs_count=8&hide=css,html&theme=transparent" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukehemmin&theme=transparent" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=lukehemmin&row=1&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lukehemmin&theme=github-compact&radius=8&hide_title=true" />
 </div>
 
 ### 대표 레포지토리
@@ -56,3 +79,5 @@
 - **Website**: http://lukehemmin.com/
 <br/>
 <sub>협업/기여 제안 환영합니다.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer" />
